@@ -1,0 +1,6 @@
+Generation mobile	Debit en kbps
+1	2
+2	64
+3	384
+4	1000000
+5	10000000
